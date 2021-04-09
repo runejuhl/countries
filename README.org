@@ -1,0 +1,4 @@
+#+title: Countries in EDN
+
+Countries by region formatted as EDN, extracted from
+https://gist.github.com/richjenks/15b75f1960bc3321e295.
